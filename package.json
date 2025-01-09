@@ -1,0 +1,22 @@
+{
+  "urls": [
+    ["pynmeagps/__init__.py", "github:org/ZeroTiramisu/pynmeagpsmpy/src/pynmeagps/__init__.py"],
+    ["pynmeagps/_version.py", "github:org/ZeroTiramisu/pynmeagpsmpy/src/pynmeagps/_version.py"],
+    ["pynmeagps/exceptions.py", "github:org/ZeroTiramisu/pynmeagpsmpy/src/pynmeagps/exceptions.py"],
+    ["pynmeagps/nmeahelpers.py", "github:org/ZeroTiramisu/pynmeagpsmpy/src/pynmeagps/nmeahelpers.py"],
+    ["pynmeagps/nmeamessage.py", "github:org/ZeroTiramisu/pynmeagpsmpy/src/pynmeagps/nmeamessage.py"],
+    ["pynmeagps/nmeareader.py", "github:org/ZeroTiramisu/pynmeagpsmpy/src/pynmeagps/nmeareader.py"],
+    ["pynmeagps/nmeatypes_core.py", "github:org/ZeroTiramisu/pynmeagpsmpy/src/pynmeagps/nmeatypes_core.py"],
+    ["pynmeagps/nmeatypes_get.py", "github:org/ZeroTiramisu/pynmeagpsmpy/src/pynmeagps/nmeatypes_get.py"],
+    ["pynmeagps/nmeatypes_get_prop.py", "github:org/ZeroTiramisu/pynmeagpsmpy/src/pynmeagps/nmeatypes_get_prop.py"],
+    ["pynmeagps/nmeatypes_poll.py", "github:org/ZeroTiramisu/pynmeagpsmpy/src/pynmeagps/nmeatypes_poll.py"],
+    ["pynmeagps/nmeatypes_set.py", "github:org/ZeroTiramisu/pynmeagpsmpy/src/pynmeagps/nmeatypes_set.py"],
+    ["pynmeagps/socket_wrapper.py", "github:org/ZeroTiramisu/pynmeagpsmpy/src/pynmeagps/socket_wrapper.py"],
+  ],
+  "deps": [
+    ["datetime", "latest"],
+    ["logging", "latest"],
+    ["struct", "latest"]
+  ],
+  "version": "0.1"
+}
