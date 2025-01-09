@@ -16,7 +16,7 @@
   "deps": [
     ["datetime", "latest"],
     ["logging", "latest"],
-    ["struct", "latest"]
+    ["struct", "latest"],
     ["collections-defaultdict", "latest"]
   ],
   "version": "0.1"
