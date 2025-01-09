@@ -1,6 +1,11 @@
 pynmeagps
 =========
 
+"Forked" but not really from pynmeagps from semuconsulting [https://github.com/semuconsulting/pynmeagps](https://github.com/semuconsulting/pynmeagps).
+This is to allow micropython's mpremote to install the package onto rp2040 (or at least that's the idea) with inclusion of package.json.
+However, some rework has to be done as it still doesn't quite work due to reliance on Python stdlib (non micropython version).
+
+
 [Current Status](#currentstatus) |
 [Installation](#installation) |
 [Reading](#reading) |
